@@ -1,54 +1,35 @@
-﻿1
+1
 00:00:00,774 --> 00:00:05,101
-Welcome back. I'm Jeffrey Brown of the PBS NewsHour and you are watching
-
-С возвращением. Я Джефри Браун с "PBS NewsHour" и вы смотрите
-
-C возвращением. Я Джефри Браун. Мы находимся на книжной ярмарке
+Welcome back. I'm Jeffrey Brown of the PBS news hour and you are watching
 
 2
 00:00:05,406 --> 00:00:10,427
 PBS Books here at the Miami Book Fair in partnership with the Great American Read.
 
-"PBS Books" на книжной ярмарке в Майами в сотрудничестве с "Great American Read".
-
 3
 00:00:10,451 --> 00:00:12,776
 I'm joined now by Janet Fitch
-
-К нам присоединяется (подключается) Джанет Фитч
 
 4
 00:00:12,896 --> 00:00:17,528
 We're about to talk about her new novel "The Revolution of Marina M."
 Welcome to you.
 
-И мы обсудим её новый роман "The Revolution of Marina M."
-Добро пожаловать.
-
 5
 00:00:17,567 --> 00:00:18,297
 Thank you.
-
-Спасибо.
 
 6
 00:00:18,307 --> 00:00:20,207
 The Russian Revolution. Huh?
 
-Русская революция? Почему?
-
 7
 00:00:20,663 --> 00:00:22,182
 What got you into that?
 
-Что стало причиной?
-
 8
 00:00:23,378 --> 00:00:26,825
 Well, I was history major. Russia was my field...
-
-Я историк по образованию, я изучала Россию...
 
 9
 00:00:26,832 --> 00:00:28,357
@@ -58,75 +39,45 @@ It was. Years goes back.
 00:00:28,477 --> 00:00:31,822
 I took russian in highschool. I took russian in college.
 
-Я выбрала Россию в средней школе, а потом и в колледже.
-
 11
 00:00:32,144 --> 00:00:35,209
 I'm one of those people obsessed with russian literature
-
-Я из тех, кто одержим русской литературой.
 
 12
 00:00:35,215 --> 00:00:38,559
 so it was sooner or later there would be a russian novel.
 
-так что рано или поздно должен был появиться русской роман.
-
-так что книга о России должна была появиться.
-
-так что рано или поздно должна была появиться такая книга.
-
 13
 00:00:38,679 --> 00:00:41,063
 How much... so how much did you know of that period?
-
-Как много вы знаете об этом периоде?
-
-И как хорошо вы знаете этот период?
 
 14
 00:00:41,437 --> 00:00:44,701
 I had a pretty good grounding, but ...
 
-Я была неплохо подготовлена, но ...
-
 15
 00:00:45,548 --> 00:00:49,808
 when you're writing about people in history, it's different than writing history.
-
-когда пишешь о людях в истории, это совсем не то, как когда пишеть саму историю.
-
-писать о людя в истории - совсем не то, что писать саму историю
 
 16
 00:00:49,903 --> 00:00:53,336
 You have to have a pretty good grounding in what happen, but ...
 
-Тебе нужно хорошо ориентировать в том, что происходит, но ...
-
 17
 00:00:53,362 --> 00:00:56,362
 it's more the texture of life you have to know
-
-это контекст событий, который нужно знать.
 
 18
 00:00:56,389 --> 00:01:00,747
 What do the phone... how do the phone work in 1916 ?
 
-Что телефон... как работал телефон в 1916 году?
-
 19
 00:01:00,781 --> 00:01:06,891
 And how did the bread russian system work and what do the bread card look like?
 
-И как работали талоны на хлеб и как выглядели талоны на хлеб?
-
 20
 00:01:06,938 --> 00:01:09,095
 So the devil's in the details.
-
-Дьявол кроется в мелочах.
 
 21
 00:01:09,215 --> 00:01:13,763
@@ -187,7 +138,7 @@ And when.. the Bolsheviks come into power in october...
 
 35
 00:02:18,270 --> 00:02:22,700
-her family comes apart — it's a liberal family not a radical family.
+her family comes apart � it's a liberal family not a radical family.
 
 36
 00:02:22,717 --> 00:02:25,715
@@ -251,7 +202,7 @@ I mean she based on any pret... any real person.
 
 51
 00:02:58,018 --> 00:03:04,125
-No. I had written a short story with the character in America as an émigré
+No. I had written a short story with the character in America as an �migr�
 
 52
 00:03:04,453 --> 00:03:08,344
@@ -436,7 +387,7 @@ Now it's...
 
 97
 00:05:55,654 --> 00:05:59,911
-When I was writing the book it was about the character — now it's me.
+When I was writing the book it was about the character � now it's me.
 
 98
 00:05:59,956 --> 00:06:02,613
@@ -740,7 +691,7 @@ to understand what's going on, what's in the air.
 
 173
 00:11:20,121 --> 00:11:26,064
-I had people read it who have trouble following politics — they don't follow history very well.
+I had people read it who have trouble following politics � they don't follow history very well.
 
 174
 00:11:26,083 --> 00:11:29,903
