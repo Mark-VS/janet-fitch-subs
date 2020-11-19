@@ -2,15 +2,17 @@
 00:00:00,774 --> 00:00:05,101
 Welcome back. I'm Jeffrey Brown of the PBS NewsHour and you are watching
 
-С возвращением. Я Джефри Браун с "PBS NewsHour" и вы смотрите
+С возвращением. Я Джефри Браун и это "Час новостей на PBS". Вы смотрите ...
 
-C возвращением. Я Джефри Браун. Мы находимся на книжной ярмарке
+С возвращением. С вами Джефри Браун и это "Час новостей на PBS". Мы находимся ...
 
 2
 00:00:05,406 --> 00:00:10,427
 PBS Books here at the Miami Book Fair in partnership with the Great American Read.
 
-"PBS Books" на книжной ярмарке в Майами в сотрудничестве с "Great American Read".
+"PBS Books". Мы находимся на книжной ярмарке в Майами, при поддержке "Great American Read".
+
+на книжной ярмарке в Майами, которая организованна (проходит) в сотрудничестве с "Great American Read".
 
 3
 00:00:10,451 --> 00:00:12,776
@@ -36,7 +38,7 @@ Thank you.
 00:00:18,307 --> 00:00:20,207
 The Russian Revolution. Huh?
 
-Русская революция? Почему?
+Почему Русская революция?
 
 7
 00:00:20,663 --> 00:00:22,182
@@ -44,15 +46,24 @@ What got you into that?
 
 Что стало причиной?
 
+Что за выбор?
+
 8
 00:00:23,378 --> 00:00:26,825
 Well, I was history major. Russia was my field...
 
-Я историк по образованию, я изучала Россию...
+Я историк по образованию, и изучала Россию...
+
+Россия - моя специализация
 
 9
 00:00:26,832 --> 00:00:28,357
-It was. Years goes back.
+It was (years) goes back.
+
+Много лет назад
+(раньше изучала Россию - не сейчас)
+
+Так давно?
 
 10
 00:00:28,477 --> 00:00:31,822
@@ -64,63 +75,61 @@ I took russian in highschool. I took russian in college.
 00:00:32,144 --> 00:00:35,209
 I'm one of those people obsessed with russian literature
 
-Я из тех, кто одержим русской литературой.
+Я из тех, кто одержим русской литературой,
 
 12
 00:00:35,215 --> 00:00:38,559
 so it was sooner or later there would be a russian novel.
 
-так что рано или поздно должен был появиться русской роман.
-
-так что книга о России должна была появиться.
-
-так что рано или поздно должна была появиться такая книга.
+так что очевидно, что такая книга должна была появиться.
 
 13
 00:00:38,679 --> 00:00:41,063
 How much... so how much did you know of that period?
 
-Как много вы знаете об этом периоде?
+Вы хорошо знали (разбирались) историю этого периода?
 
-И как хорошо вы знаете этот период?
+Вы хорошо изучили историю этого периода?
 
 14
 00:00:41,437 --> 00:00:44,701
 I had a pretty good grounding, but ...
 
-Я была неплохо подготовлена, но ...
+Я... НЕПЛОХО знала эту тему, но ...
+
+Я... неплохо ЗНАЛА эту тему, но ...
 
 15
-00:00:45,548 --> 00:00:49,808
+00:00:45,548 --> 00:00:49,783
 when you're writing about people in history, it's different than writing history.
 
-когда пишешь о людях в истории, это совсем не то, как когда пишеть саму историю.
-
-писать о людя в истории - совсем не то, что писать саму историю
+исторический роман — это не то же самое, что учебник по истории.
 
 16
 00:00:49,903 --> 00:00:53,336
 You have to have a pretty good grounding in what happen, but ...
 
-Тебе нужно хорошо ориентировать в том, что происходит, но ...
+Тебе нужно НЕ ПРОСТО хорошо знать историю, но и ...
 
 17
 00:00:53,362 --> 00:00:56,362
 it's more the texture of life you have to know
 
-это контекст событий, который нужно знать.
+представлять какой была жизнь в тех условиях:
 
 18
 00:00:56,389 --> 00:01:00,747
 What do the phone... how do the phone work in 1916 ?
 
-Что телефон... как работал телефон в 1916 году?
+Что телефон... как работал телефон в 1916-м ?
 
 19
 00:01:00,781 --> 00:01:06,891
 And how did the bread russian system work and what do the bread card look like?
 
-И как работали талоны на хлеб и как выглядели талоны на хлеб?
+Как работала... карточная система... на хлеб и как эти карточки выглядели?
+
+карточное распределение продуктов
 
 20
 00:01:06,938 --> 00:01:09,095
@@ -132,9 +141,13 @@ So the devil's in the details.
 00:01:09,215 --> 00:01:13,763
 So you had to know about these things and then decide how to use them in fiction.
 
+То есть нужно знать эти детали и решить как применить их в художке.
+
 22
 00:01:14,024 --> 00:01:17,021
 Well, I tend to research and write in tandem.
+
+Обычно я изучаю вопрос и пишу с кем-то.
 
 23
 00:01:17,071 --> 00:01:17,378
@@ -144,74 +157,115 @@ Yeah
 00:01:17,401 --> 00:01:20,761
 So I don't get too far down the rabbit hole ...
 
+Так что мне не приходится глубоко погружаться в изучение ...
+
 25
 00:01:22,426 --> 00:01:29,493
 So... yeah! I... I found out what I need to know to work... to write that scene or that chapter.
 
+Да. Я ищу то, что мне нужно в данный момент для написания конкретной сцены или главы.
+
 26
 00:01:31,117 --> 00:01:36,199
 So tell... so tell us about this book... well tho... this main character Marina.
+
+Тогда расскажите нам о вашей книге.... о главной героине, Марине.
 
 27
 00:01:36,561 --> 00:01:37,673
 Where did she come from?
 (Who is she?)
 
+Откуда она?
+Как она повявилась?
+
 28
 00:01:37,700 --> 00:01:41,720
 Marina... is a ...
+
+Марине ...
 
 29
 00:01:41,877 --> 00:01:46,259
 sixteen when the book opens during World War I, 1916
 
+шестнадцать, на момент начала книги, 1916-й год, Первая Мировая.
+
 30
 00:01:46,267 --> 00:01:51,348
 because Revolutions don't happen... you know by themselves. There's reasons.
+
+потому что революции не происходят... сами по себе. Всегда есть причины. (предпосылки)
 
 31
 00:01:51,841 --> 00:02:01,864
 It's World War I was a terrific disaster for Russia and for the... for tsar.
 
+И это Первая Мировая война, которая стала ужасной катастрофой для России и для... для царя (императора).
+
 32
 00:02:02,525 --> 00:02:08,261
 And she's a privileged girl. She's the daughter of intellectuals.
+
+Она привелегированная девочка, из интеллигентной семьи.
 
 33
 00:02:08,381 --> 00:02:11,032
 And she champions the revolution.
 
+И она сторонник Революции.
+
+И она на стороне Революции.
+
+И она - революционер.
+
 34
 00:02:11,091 --> 00:02:16,589
 And when.. the Bolsheviks come into power in october...
+
+И когда.... большевики пришли к власти в октябре...
 
 35
 00:02:18,270 --> 00:02:22,700
 her family comes apart — it's a liberal family not a radical family.
 
+её семья распалась — это семья либералов, не радикалов.
+
 36
 00:02:22,717 --> 00:02:25,715
 And she lives the life of the revolution.
+
+И она живёт жизнь Революции.
+
+И она проживает революционную жизнь.
 
 37
 00:02:25,727 --> 00:02:27,060
 She is a poet.
 
+Она — поэт.
+
 38
 00:02:27,587 --> 00:02:31,425
 And I had begun the book as a novel inverse
+
+И я начинала книгу как роман в стихах.
 
 39
 00:02:31,693 --> 00:02:32,184
 You did?
 
+Прадва?
+
 40
 00:02:32,223 --> 00:02:32,752
 Yeah!
 
+Да.
+
 41
 00:02:32,872 --> 00:02:34,923
-For seventeen chapters ... in verse (reverse)
+For seventeen chapters were in verse
 
 42
 00:02:34,975 --> 00:02:35,357
@@ -223,100 +277,153 @@ And then...
 
 44
 00:02:35,980 --> 00:02:37,137
-Did you ever do that bevore?
+Did you ever do that before?
+
+Вы раньше писали подобное?
 
 45
 00:02:37,194 --> 00:02:37,959
 No.
 
+Нет.
+
 46
 00:02:38,079 --> 00:02:41,492
 Because she's a poet, I thought her book should be a poetry, but...
+
+Я подумала, что раз она поэт, её книга должна быть поэзией, но ...
 
 47
 00:02:41,496 --> 00:02:46,843
 the first I got to a place where I needed my fiction writer tools
 
+я добралась до места, где нужны были мои умения художественной литературы
+
+я добралась до места, где мне понадобились мои умения писать художку
+
 48
 00:02:46,881 --> 00:02:50,277
 to know what happen(ed) and then I was writing fictions.
 
+чтобы понять что произошло и тогда я стала писать художку (прозу).
+
+чтобы контроллировать ситуация и тогда я вернулась к прозе.
+
 49
 00:02:50,397 --> 00:02:55,648
-So... so you hit on her as your main character and then... in research
+So... so you hit on her as your main character and then... you research
+
+Вы выбрали её главным персонажем и тогда... вы изучали
 
 50
 00:02:55,768 --> 00:02:57,974
 I mean she based on any pret... any real person.
 
+Я имею в виду, у ней был прототип
+
 51
 00:02:58,018 --> 00:03:04,125
 No. I had written a short story with the character in America as an émigré
+
+Нет. Я писала короткую историю про персонажа в Америке как эмигранта
 
 52
 00:03:04,453 --> 00:03:08,344
 And I never forgot about her.
 
+И никогда не забывала о ней.
+
 53
 00:03:08,359 --> 00:03:11,749
 And I returned to write... I wrote a short story about her.
+
+И я вернулась к писанию... Я написала короткую историю о ней.
 
 54
 00:03:11,773 --> 00:03:14,998
 And then I tried to write a nover about her in America.
 
+А потом я попробовала написать о ней роман в Америке.
+
 55
 00:03:15,024 --> 00:03:18,590
 And there were just too many things I didn't know about her.
+
+Я о ней много чего не знала.
 
 56
 00:03:18,604 --> 00:03:23,710
 So before I knew it, I was writing a story set during the Russian Revolution.
 
+Прежде, чемя я узнала это, я написала историю, разворачивающуюся во время Русской Революции.
+
 57
 00:03:23,765 --> 00:03:26,173
 So well how far back where you're writing about her?
 
+А как давно это было?
+Как давно вы писали о ней?
+
 58
 00:03:26,180 --> 00:03:28,201
 I mean, this... this initial short story.
+
+Я имею в виду, этот оригинальный (первоначальный) рассказ.
 
 59
 00:03:28,739 --> 00:03:30,182
 It goes back to twenty...
 (Is this year ago?)
 
+Это было в ...
+
 60
 00:03:31,222 --> 00:03:35,937
 This was between "White Oleander" and "Paint it Black"
+
+Это было между "Белым Олеандром" и "Paint it Black".
 
 61
 00:03:35,983 --> 00:03:37,695
 I had a nover that failed.
 
+У меня был роман, который я забросила.
+
 62
 00:03:38,265 --> 00:03:41,130
 But there was this character I love so after...
+
+Но персонаж оттуда мне очень нравился(ась), так что
 
 63
 00:03:41,864 --> 00:03:47,027
 after "Paint it Black" came out I decided to write that short story.
 
+после того, как вышел "Paint it Black", я решила написать тот короткий рассказ.
+
 64
 00:03:47,423 --> 00:03:50,648
 And I just wanted... I wanted to be with her more.
+
+Я просто хотела... побыть с ней подольше.
 
 65
 00:03:51,464 --> 00:03:56,140
 That's inte... I maen people wonder where these... where these things come from. Right?
 
+Это инте... Я имею в виду, люди же интересуются откуда все эти вещи берут начало. Верно?
+
 66
 00:03:56,813 --> 00:04:02,849
 So this all... This is a big book, but it started with one character that.. from... that you thought of something else.
 
+Ведь это большая книга, но она начинается с персонажа, который изначально должен был быть кем-то другим.
+
 67
 00:04:02,858 --> 00:04:05,244
 Right. Not even in this time and place.
+
+Да. Кем-то не из этой эпохи и страны.
 
 68
 00:04:05,300 --> 00:04:05,762
@@ -330,25 +437,37 @@ You...
 00:04:08,202 --> 00:04:09,469
 And she's very different...
 
+И она совсем не так...
+
 71
 00:04:10,281 --> 00:04:16,578
 You know it's again... It's a story about how young woman builds herself
+
+И опять же... Это история о том, как молодая женщина "развивается"
 
 72
 00:04:17,941 --> 00:04:22,372
 through events and through reactions to things, decisions that she's made.
 
+через события и через реакцию на окружение, через решения, которые она принимает.
+
 73
 00:04:22,389 --> 00:04:28,183
 You know girl makes a decision in... at sixteen and she's... she has to live through it
+
+Девушка принимает решение в 16 и она... она должна пройти через это
 
 74
 00:04:28,196 --> 00:04:31,188
 and the woman becomes the result of that.
 
+и "Женщина" становится рельтатом этого пути.
+
 75
 00:04:32,307 --> 00:04:38,444
 But unlike my two earlier books, I have character Sue (are) full of self-doubt.
+
+Но в отличие от моих предыдущих книг, моя героиня Сью полна неуверенностью в себе.
 
 76
 00:04:38,491 --> 00:04:38,950
@@ -358,53 +477,81 @@ mm-hmm
 00:04:39,664 --> 00:04:43,744
 Whereas now I have a character who is absolutely confident.
 
+В то время как сейчас моя нынешняя героиня совершенно в себе уверена.
+
 78
 00:04:43,777 --> 00:04:46,232
 And I've never had anybody like that.
+
+И у меня раньше не было таких персонажей.
 
 79
 00:04:46,352 --> 00:04:48,157
 I... I'm full of self-doubt.
 
+Я... неуверенна в себе.
+
 80
 00:04:48,185 --> 00:04:52,016
 I'm not used to be with somebody who knows what she thinks.
+
+Я не привыкла находится с людьми, которые мыслят так же, как она.
 
 81
 00:04:52,136 --> 00:04:57,501
 She can be totally wrong, things could go horribly astray as they do,
 
+Она может быть абсолютно неправа, положение дел может быть непоправимо - а так и есть,
+
 82
 00:04:57,525 --> 00:04:58,574
 but it was f...
+
+но это ...
 
 83
 00:04:59,053 --> 00:05:03,432
 She's a more of a heroine type of character, that I've ever worked with before.
 
+Она самый притягивающий тип персонажа, с которыми я когда-либо работала. 
+
+Из всех персонажей, с которыми я когда-либо работала, она самая притягивающая.
+
 84
 00:05:03,451 --> 00:05:06,791
 So what did that mean for the writing? Did she tell you what was gonna happen next?
+
+И как это сказывается на процессе работы? Она диктуюет вам что должно произойти дальше?
 
 85
 00:05:06,823 --> 00:05:07,796
 They always do.
 
+Они все диктуют.
+
 86
 00:05:07,838 --> 00:05:08,475
 They do?
+
+Все?
 
 87
 00:05:09,209 --> 00:05:13,220
 They always do. You just have to stay really close to the heartbeat of the character.
 
+Все. Тебе просто нужно слышать сердцебиение персонажа.
+
 88
 00:05:13,226 --> 00:05:18,885
 It's almost like leaning your head against her chest and hearing... hearing the heartbeat.
 
+Это почти как приложить голову к её груди и слушать... слышать стук сердца.
+
 89
-00:05:19,332 --> 00:05:26,821
+00:05:19,005 --> 00:05:26,821
 Of course in this case it's her story it's a young woman (coming away), but it's against some very big history
+
+В таком случает, это её история... этой молодой женщины() , но это противопоставление историческому развитию
 
 90
 00:05:26,887 --> 00:05:27,207
@@ -414,33 +561,49 @@ Right.
 00:05:27,879 --> 00:05:33,945
 So it's the kind of things that happened to her are... it's not like what happened to most of... most young people.
 
+Получается, всё, что произошло с ней - это не то, что происходило с большинством молодых людей.
+
 92
 00:05:34,721 --> 00:05:37,445
 Uh well, .. we all live in history.
+
+Ну... мы все живём В истории.
 
 93
 00:05:37,668 --> 00:05:42,073
 You know very few people actually at the top making decisions.
 
+Очень немногие люди могут РЕАЛЬНО принимать решения.
+
 94
 00:05:42,535 --> 00:05:49,567
-Most of us are living where... we see the shadow on the wall, we care a rumor, we read the newpaper and
+Most of us are living where... we see the shadow on the wall, we care a rumor, we read the newspaper and
+
+Большинство из нас живут, видя тени на стене: нас заботят слухи, мы читаем газеты и
 
 95
 00:05:49,687 --> 00:05:53,687
 how people live in history realy interests me. And especially now.
 
+как люди живут в истории очень интересует меня. Особенна сейчас (теперь).
+
 96
 00:05:54,125 --> 00:05:54,979
 Now it's...
+
+Сейчас это...
 
 97
 00:05:55,654 --> 00:05:59,911
 When I was writing the book it was about the character — now it's me.
 
+Когда я писала книгу, меня волновала героиня, сейчас это Я сама.
+
 98
 00:05:59,956 --> 00:06:02,613
 You know you get a strong sense of what that's like.
+
+У меня есть чёткое пониматия КАК это.
 
 99
 00:06:02,647 --> 00:06:03,018
@@ -450,33 +613,49 @@ Yeah.
 00:06:03,447 --> 00:06:09,203
 The blurb you're on the cover says: Marina is a female Zhivago.
 
+Надпись на обложке сообщает: Марина - это женская версия Живаго.
+
 101
 00:06:09,245 --> 00:06:16,691
 So... I mean you can't read something like... book like this about the Russian Revolution without thinking of these models. Right?
+
+Ты не можешь читать подобную литературу, о Русской Революции, и не думать об этих моделях (персонажах). Верно?
 
 102
 00:06:16,696 --> 00:06:18,289
 Like a doctor Zhivogo.
 
+Как доктор Живаго.
+
 103
 00:06:18,632 --> 00:06:21,508
 Did  you know... did you have these models in mind?
+
+У вас... в голове были эти модели (вы их учитывали)?
 
 104
 00:06:23,575 --> 00:06:27,249
 Well. It's all goes into the pot. You know it's a big gumbo.
 
+Эти высказывания ничего не стоят. Просто болтовня.
+
 105
 00:06:27,324 --> 00:06:30,170
 And it's russian literature
+
+И это русская литература...
 
 106
 00:06:30,225 --> 00:06:38,697
 It's... I mean I encountered Zhivago far earlier than... than Pasternak's novel.
 
+Я имею в виду... Я познакомилась с Живаго задолго до того, как прочла этот роман.
+
 107
 00:06:38,703 --> 00:06:42,214
 I encountered it on the sc... on the widescreen
+
+Я познакомилась с ним на... широком экране.
 
 108
 00:06:42,224 --> 00:06:42,867
@@ -486,13 +665,19 @@ Of course. Yeah.
 00:06:42,883 --> 00:06:46,764
 In the little train going across the big snowy expanse
 
+В маленьком поезде, который едет по снежным просторам
+
 110
 00:06:46,785 --> 00:06:51,076
 on the forty foot high faces Zhivago and Lara
 
+на 40-футовые лица Живаго и Лары крупным планом
+
 111
 00:06:52,088 --> 00:06:54,460
 I mean that brands you forever
+
+Я имею в виду это запечатляется навсегда.
 
 112
 00:06:54,499 --> 00:06:54,906
@@ -502,205 +687,311 @@ Yeah.
 00:06:55,377 --> 00:06:57,957
 What about russian literature, russian-write novelists?
 
+А что насчёт русской литературы, русскоязычных писателей?
+
 114
 00:06:58,077 --> 00:07:01,282
 Uh well I... I fell in love with russian literature.
+
+Оу... Я обожаю русскую литературу.
 
 115
 00:07:01,298 --> 00:07:04,159
 I'm one of those people who is obsessed with russian literature.
 
+Я из тех, кто одержим русской литературой.
+
 116
 00:07:04,192 --> 00:07:06,488
 And I encountered...
+
+И впервые...
 
 117
 00:07:07,657 --> 00:07:11,584
 I encountered it for the first time as a junior high kid.
 
+...впервые я познакомилась в старших классах (7-9 классы)
+
 118
 00:07:11,596 --> 00:07:16,996
 I was reading some... In English class that give you some treacly (trickly) female...
+
+Я читала какой-то... По английскому нам дали какой-то приторный женский...
 
 119
 00:07:17,052 --> 00:07:20,898
 It was you know (crest) (cross) delehanty. People don't even read that anymore.
 
+Это назвалось: "Cress Delahanty". Теперь такое даже не читают.
+
+Сress Delahanty - Jessamyn West
+
 120
 00:07:20,934 --> 00:07:24,063
 Cherry Ames, the student nurse, you know.
+
+Черри Эймс, студентка-медсестра...
 
 121
 00:07:24,080 --> 00:07:26,128
 And it did not appeal to me at all.
 
+Мне это совсем не нравилось.
+
 122
 00:07:26,160 --> 00:07:29,342
 I was infuriated. I came home and complained.
+
+Меня это раздражало. Я пришла домой и пожаловалась.
 
 123
 00:07:29,356 --> 00:07:31,433
 And my father gave me "Crime and Punishment".
 
+И мой отец дал мне "Преступление и наказание".
+
 124
 00:07:31,780 --> 00:07:36,392
 So here. See you if you like that. And I... I loved it.
+
+Мол "На. Может, это понравится". И я... я влюбилась в эту книгу.
 
 125
 00:07:36,410 --> 00:07:39,674
 I loved it. It was so intense and extreme and...
 
+Мне понравилось. Это было так захватывающе, безумно и...
+
 126
 00:07:39,683 --> 00:07:45,026
 people were you know they bludgeoned the landlady to death with an axe because of the philosophy.
+
+люди были... зарубили хозяйку топором, решая философский вопрос.
 
 127
 00:07:45,090 --> 00:07:47,557
 It's like... Yeah! That is...
 
+Это было... Да!
+
 128
 00:07:47,576 --> 00:07:50,948
 So I was... you know I was lost. I mean that was it for me
+
+И я погрузилась... Я имею в виду, что это было моё. (Я поняла, что это моё).
 
 129
 00:07:50,955 --> 00:07:55,235
 I took russian in... in high school. I took russian in college and...
 
+Я выбрала русский в средней школе. Я выбрала русский в колледже и...
+
 130
 00:07:56,282 --> 00:08:00,343
 it was only a matter of time before I tried a russian novel.
+
+и то, что я напишу русский роман - было   вопросом времени.
 
 131
 00:08:00,520 --> 00:08:05,451
 Do you think of this as a kinda departure for you from your other books
 
+Вы считаете это отходом от ваших предыдущих книг?
+
 132
 00:08:05,571 --> 00:08:09,488
 to going back in history and the epic nature of it?
+
+уходя в глубь истории и добавляя эпичности событиям (контексту)?
 
 133
 00:08:09,515 --> 00:08:11,813
 Yeah. That... that was the departure
 
+Да. Это был отход
+
 134
 00:08:11,820 --> 00:08:16,159
 you know the building of woman, is similar.
+
+в том числе, и развитие личности героини.
 
 135
 00:08:16,662 --> 00:08:23,368
 But the actual amount of time and energy to construct a world
 
+Но большая часть времени и усилий потрачено на создание (построение) мира
+
 136
 00:08:23,394 --> 00:08:28,517
 was something very new. I'm a writer of place. And time is also...
+
+это было вновинку. Я писатель МЕСТА. Но время - тоже...
 
 137
 00:08:28,549 --> 00:08:29,452
 What does that mean? you...
 
+Что это значит?
+
 138
 00:08:29,572 --> 00:08:34,709
 You know place is very important. I need to know where things happen. There's a map in the book.
+
+Мне нужно знать, где разворачиваются события. Место очень важно. И в книге есть карта.
 
 139
 00:08:36,770 --> 00:08:40,458
 My imagi... That's how my imagination works. It's very geographical.
 
+Моё вооб... Так уж устроено моё воображение. Оно географично.
+
 140
-00:08:40,686 --> 00:08:46,821
+00:08:40,686 --> 00:08:46,988
 And... but time is also a place. The past is a country as well.
+
+И... но время — это  тоже место. Прошлое — это целая страна.
 
 141
 00:08:47,108 --> 00:08:51,786
 So it's constructing the world that I have to...
 
+Так что построение мира, которое мне пришлось...
+
 142
 00:08:51,822 --> 00:08:56,302
 you know I have to... I... I'm from LA. I was able to do it with first two novels (to do the first)
+
+ну.... пришлось... Я из Лос-Анджелеса. Я это проделывала с первыми двумя романами
 
 143
 00:08:57,240 --> 00:09:00,702
 with a foundation anyway of place.
 
+которые естественно где-то...  происходят.
+
 144
 00:09:00,746 --> 00:09:04,252
 But Petersburg... I was a student there in 1977
+
+Но Петербург... Я была студентом в 1977
 
 145
 00:09:04,282 --> 00:09:10,812
 so I knew it somewhat, but I had to learn it the way someone who lived there, who grew up there and knew it.
 
+кое-что о нём я знала, но мне нужно было знать глазами того, кто жил там, кто вырос там и знал всё изнутри.
+
 146
 00:09:10,932 --> 00:09:12,731
 And you did that through books...
 
+И вы это делали через книги...
+
 147
 00:09:12,746 --> 00:09:16,728
-I did it through reading. I went to Russia couple times. I'd also been a student there so you know for the memory
+I did it through reading. I went to Russia couple times.
+
+И делала это читая. Я несколько раз ездила в Россию.
 
 148
 00:09:16,746 --> 00:09:20,034
 I'd also been a student there so you know for the memory...
 
+Тогда я тоже  была студентом, так что - по помяти.
+
 149
 00:09:20,064 --> 00:09:24,778
 I read a lot of women's memoirs so things that weren't intended for publication,
+
+Я прочла много женских мемуаров, которые писались не для публикации —
 
 150
 00:09:24,797 --> 00:09:28,930
 but just women talk thinking about their lives. Very valuable.
 
+женщины просто записывали мысли о жизни. Очень ценно.
+
 151
 00:09:29,349 --> 00:09:34,118
 You haven't you are telling me before we started... I was commenting on that cover
+
+Перед началом интервью, когда я высказался насчёт обложки,  вы говорили
 
 152
 00:09:34,238 --> 00:09:37,377
 And you were said that you got... you got involved in the details of the cover.
 
+Вы сказали, что вы были вовлечены в доработку деталей на обложке
+
+Вы сказали, что принимали участие в ... на обложке
+
 153
 00:09:37,692 --> 00:09:44,119
 Yes. And this is something so rare. Publisheres usually don't let the writer interfere,
+
+Да. Такое бывает редко. Обычно издатель не позволяет писателю вмешиваться,
 
 154
 00:09:44,128 --> 00:09:48,616
 because we're generally not visual people. We're people of the word.
 
+потому что в целом мы не визуальные люди (визуалы) (дизайнеры). Мы люди слова.
+
 155
 00:09:48,629 --> 00:09:53,949
 But I needed it to be historical accurate.
+
+Но мне было важно сохранить историческую точность.
 
 156
 00:09:53,972 --> 00:09:58,549
 The hair was not quite 1916-1917
 
+Волосы не совсем соответствовали 1916-1917 годам
+
 157
 00:09:58,596 --> 00:10:01,951
 at one point she bobs her hair which people did.
+
+в один момент она остригла волосы под каре, что люди и делали.
 
 158
 00:10:02,871 --> 00:10:06,231
 But before that the hair was very full and low
 
+Но ДО причёски были пышные и короткие.
+
 159
 00:10:07,005 --> 00:10:11,256
 The hair had to change, I cut her nai... I asked them to cut her nails,
+
+Причёску надо было изменить. Я попросила, чтобы ей укоротили ногти,
 
 160
 00:10:11,278 --> 00:10:14,813
 because they didn't have manicures during the Revolution.
 
+потому что во время Революции люди не делали маникюр.
+
 161
 00:10:16,369 --> 00:10:20,458
 So yeah, little details. But the overall design was theirs.
+
+Так что да, некоторые детали. Но в целом дизайн - издательский.
 
 162
 00:10:21,073 --> 00:10:28,882
 So... so... I'm curious when you... because it's... it's story of one young woman but in the history
 
+Мне интересно когда.... потому что это... это история одной молодой женщины, но В истории
+
 163
 00:10:29,002 --> 00:10:34,294
 It... you there has to be a balance. Right? I mean you have to let us as readers know what's going on in the history.
+
+Ва ведь пришлось соблюдать баланс. Верно? Я имею в виду, вам нужно было дать читать понимание того, что происходит в истории (вокруг).
 
 164
 00:10:34,338 --> 00:10:34,789
@@ -710,57 +1001,85 @@ Yes.
 00:10:34,806 --> 00:10:36,668
 So how's... where's the balance for you?
 
+В чём баланс для вас?
+
 166
 00:10:36,691 --> 00:10:39,655
 Is that something you wondered about as you were writing or you read about?
+
+Было что-то, о чём вы беспокоились во время написания или чтения?
 
 167
 00:10:39,683 --> 00:10:51,811
 Well the balance for me is I know so much more about that history, than I want to subject the reader to.
 
+Баланс в том, что... Я знаю о Истории на порядок больше, чем Я хотела бы, чтоб знал читатель.
+
 168
 00:10:52,418 --> 00:10:54,883
 Because I... I was... history was my field.
+
+Потому что... Я.. Я историк.
 
 169
 00:10:55,341 --> 00:11:00,476
 So the politics of the Revolution is very intricate
 
+Политическая часть Революция очень запутана.
+
 170
 00:11:00,596 --> 00:11:06,693
-and an american without background you can only expect people to digest a certain amount
+and an American without background you can only expect people to digest a certain amount
+
+и нужно понимать, что американец без бэкграунда может переварить только ОПРЕДЕЛЁННОЕ количество информации
 
 171
 00:11:06,745 --> 00:11:14,125
 And you really only technically need what people require to understand the scene,
 
+И действительно вам нужно только то, что людям НЕОБХОДИМО для понимания сцены,
+
 172
 00:11:14,135 --> 00:11:18,460
 to understand what's going on, what's in the air.
+
+чтобы понять что происходит, какое настроение кругом (витает в воздухе).
 
 173
 00:11:20,121 --> 00:11:26,064
 I had people read it who have trouble following politics — they don't follow history very well.
 
+Из тех, кто прочёл книгу, были люди, которые плохо понимают политику... они не очень хорошо знают историю.
+
 174
 00:11:26,083 --> 00:11:29,903
 And I... I thought you know to construct solidly enough that
+
+И я... хотела объяснить всё очень чётко, так, чтобы
 
 175
 00:11:29,997 --> 00:11:34,584
 someone who is not history buff can follow it easily. That's what I wanted.
 
+тот, кто совершенно не дружит с историей, мог легко всё усвоить. Вот чего я добивалась.
+
 176
 00:11:35,883 --> 00:11:42,116
 You know I have to ask I mean we are at the Book Fair where so evidently assumed everybody loves books here. Right?
 
+Я вынужден спросить: Мы на Книжной Ярмарке, где, предполагается, все любят книги. Верно? 
+
 177
-00:11:42,126 --> 00:11:43,428
+00:11:42,126 --> 00:11:43,411
 This is a long book.
+
+Это большая книга.
 
 178
 00:11:43,979 --> 00:11:48,728
 In an woo... In an age where we hear that everybody has short attention spans.
+
+В нынешнее время мы слышим, что мы теряем концентрацию внимания.
 
 179
 00:11:48,747 --> 00:11:49,487
@@ -770,65 +1089,97 @@ Right.
 00:11:49,607 --> 00:11:55,113
 So do you worry about the readers or the attention span of people or think about this like that?
 
+Вас беспокоят читатели или концентрация внимания людей и думаете ли вы об этом?
+
 181
 00:11:55,118 --> 00:12:00,968
 No. I think for every person who might think that they have short attention span
+
+Нет. Я думаю, что каждый, кто может предположить, что у него проблемы с концентрацией внимания
 
 182
 00:12:00,985 --> 00:12:07,252
 there's a person who wants to loose themeselves in a world and just stay... stay there.
 
+есть тот, кто хочет потерять себя и раствориться в мире и просто.. стоять там.
+
 183
 00:12:07,259 --> 00:12:11,389
 Stay lost, binge, watch a show over weekend
+
+Оставаться потерянным, выпивать, смотреть шоу по выходным
 
 184
 00:12:12,598 --> 00:12:18,197
 I think that people who like to loose themselves in a book will like this.
 
+Я думаю, что люди, которым нравится погружаться в книгу любят это.
+
 185
 00:12:18,317 --> 00:12:24,262
 The other thing is I... Tolstoy wrote very long books, but very short chapters.
+
+С другой стороны... Толстой писала очень большие книги, но главы были очень короткие.
 
 186
 00:12:24,287 --> 00:12:30,754
 So you feel like you're moving. I think that... that it has to move if it's going to be long.
 
+И ты чувствуешь, что продвигаешься. Думаю, нужно двигать читателя, если хочешь задержать его надолго.
+
 187
 00:12:31,354 --> 00:12:35,008
-Well what were the books we're asking all the authors here sort of what's the... 
+Well what were the books we're asking all the authors here sort of what's the...
+
+Что ж... какие книги... мы спрашиваем об этом всех авторов здесь,
 
 188
 00:12:35,017 --> 00:12:40,258
 the book or books that were most important to you as a... as a writer or as a reader?
 
+назовите книгу книг, которая была самой важной для вас, как писателя. Или как читателя.
+
 189
 00:12:40,579 --> 00:12:45,123
 Well as a reader, that "Crime and Punishment" falling into my lap russian literature.
+
+Если как читатель, то "Преступление и наказание" попала в список перечитываемых русских книг.
 
 190
 00:12:47,947 --> 00:12:53,459
 Dostoevsky is a source as were Dickens and Poe
 
+Достоевский - такой же источник, как и Дикенс, и По
+
 191
 00:12:53,477 --> 00:12:57,570
 so I was already Dickens and Poe as a kid.
+
+так что в детстве я была под влиянием Дикенса и По.
 
 192
 00:12:58,133 --> 00:13:02,077
 And then following through russian literature and...
 
+Потом попала под влияние русской литературы и...
+
 193
 00:13:02,230 --> 00:13:08,343
 I've always liked a big book you know: "Ulysses", "Moby Dick".
+
+Мне всегда нравились большие книги: "Улис", "Моби Дик".
 
 194
 00:13:08,463 --> 00:13:12,684
 I like to loose myself... I ALSO like to loose myself in a book.
 
+Я люблю уходить... Я ТАКЖЕ люблю уходить в книги.  
+
 195
 00:13:12,855 --> 00:13:16,909
 And all of those you named have some history but they also have place.
+
+И те, что вы назвали, тоже имеют немного истории, и МЕСТА,
 
 196
 00:13:16,931 --> 00:13:17,436
@@ -838,55 +1189,83 @@ Yes.
 00:13:17,451 --> 00:13:19,338
 Which clearly is important to you?
 
+Что, очевидно, важно для вас?
+
 198
 00:13:19,343 --> 00:13:21,178
 Yeah. It's hugely important to me.
+
+Да. Это очень важно для меня.
 
 199
 00:13:21,298 --> 00:13:25,658
 Yeah. It says you... that you're working on the second pa... the second part?
 
+Тут сказано... что вы работаете над... над второй частью (продолжением(?
+
 200
 00:13:26,496 --> 00:13:26,991
 Yes. I'm...
+
+Да. Я...
 
 201
 00:13:26,997 --> 00:13:29,396
 I'm pounding... that's what it says on the back here
 
+Я.... это написано на разваороте.
+
 202
 00:13:29,408 --> 00:13:35,635
 I'm finishing the sec... the second volume of this. So it will be a duet.
+
+Я заканчиваю вт... второй том. И это будет дуэт.
 
 203
 00:13:36,092 --> 00:13:36,709
 Really?
 
+Серьёзно? (Правда?)
+
 204
 00:13:36,725 --> 00:13:37,956
 And that's because?
+
+Потому что...
 
 205
 00:13:37,974 --> 00:13:39,779
 Because I wasn't done with her yet.
 
+Потому что я ещё не закончила с ней (с главной героиней).
+
 206
 00:13:40,708 --> 00:13:44,744
 She's so lively and still has far to go.
+
+Она такая живая и у ней ещё есть что сказать.
 
 207
 00:13:45,044 --> 00:13:49,012
 Alright. This book is "The Revolution of Marina M.", Janet Fitch. Thank you very much.
 
+Хорошо. Это была книга "Революция Марины М.", Джанет Фитч. Спасибо большое.
+
 208
-00:13:49,020 --> 00:13:50,013
+00:13:49,020 --> 00:13:50,004
 Thank you.
+
+Спасибо вам.
 
 209
 00:13:50,501 --> 00:13:52,877
 And stay with us here our coverage of the Miami Book Fair.
 
+Оставайтесь с нами, на нашей частоте, Книжная Ярмарка в Майами.
+
 210
 00:13:52,881 --> 00:13:55,958
- I'm Jeffrey Brown. And we will be right back.
+I'm Jeffrey Brown. And we will be right back.
+
+Я Джеффри Браун. Мы скоро вернёмся.
 
